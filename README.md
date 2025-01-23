@@ -40,10 +40,10 @@ Run migrations in laravel container
 ~~~bash  
 php artisan migrate
 ~~~  
-Run migrations in laravel container
+Access your laravel project
 
 ~~~bash  
-acess localhost:8080
+Your project as running on Address: localhost:8080
 ~~~  
 
 Your project as run ! =)
