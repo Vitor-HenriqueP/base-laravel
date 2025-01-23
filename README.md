@@ -4,9 +4,9 @@
 
 ## Usage/Examples  
 ~~~javascript  
-Acesse a pasta laravel
+Access the Laravel folder
 
-Copy and paste .env.example archive
+Copy and paste the .env.example file
 
 Rename .env.example.copy to .env
 
